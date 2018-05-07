@@ -1,0 +1,7 @@
+ORG 0x02
+
+JMP entry
+DB 0x90
+DB 0x91
+entry:
+    MOV AX，2
