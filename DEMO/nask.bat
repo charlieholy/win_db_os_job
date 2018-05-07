@@ -1,0 +1,1 @@
+..\TOOL\nask.exe db2.js helloos.img
