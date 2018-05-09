@@ -1,1 +1,1 @@
-..\TOOL\nask.exe db2.js helloos.img
+..\TOOL\nask.exe db_ui1.js helloos.img
